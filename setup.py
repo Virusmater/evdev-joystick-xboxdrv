@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='evdev_joystick_xboxdrv',
+    name='evdev-joystick-xboxdrv',
     version='0.1',
     description='Easy and simple tool to generate a xboxdrv config',
     url='https://github.com/Virusmater/evdev-joystick-xboxdrv',
