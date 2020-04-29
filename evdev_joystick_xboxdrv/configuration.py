@@ -2,7 +2,7 @@ import os
 from configparser import ConfigParser
 from os.path import expanduser
 
-conf_path = expanduser("~") + "/.config/evdev-joystick-xboxdrv/"
+conf_path = expanduser("~") + "/.config/evdev_joystick_xboxdrv/"
 
 
 def store(evdev_keymap, evdev_absmap, axismap, name):

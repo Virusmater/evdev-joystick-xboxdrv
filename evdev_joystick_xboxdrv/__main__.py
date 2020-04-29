@@ -1,7 +1,7 @@
 import evdev
 from evdev import ecodes, resolve_ecodes_dict, categorize
 import time
-from src.configuration import store
+from evdev_joystick_xboxdrv.configuration import store
 from enum import Enum
 
 
